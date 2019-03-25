@@ -2,6 +2,7 @@
 namespace SimplifiedMagento\FirstModule\Controller\Page;
 
 use Magento\Framework\App\ResponseInterface;
+use Magento\Framework\Action\Context;
 use SimplifiedMagento\FirstModule\NotMagento\PencilInterface;
 
 /**
