@@ -21,7 +21,7 @@ class HelloWorld extends \Magento\Framework\App\Action\Action
 
   public function execute () {
     // echo $this->pencilInterface->getPencilType();
-    echo get_class($this->paymentTokenManagement);
+    echo get_class($this->paymentTokenManagement). "Prove that cron executed successfully";
   }
 
 }
