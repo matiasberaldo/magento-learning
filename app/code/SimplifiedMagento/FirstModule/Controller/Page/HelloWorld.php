@@ -9,11 +9,6 @@ use Magento\Framework\App\ResponseInterface;
 class HelloWorld extends \Magento\Framework\App\Action\Action
 {
 
-  function __construct(argument)
-  {
-
-  }
-
   public function execute () {
     echo "Hello World!";
   }
