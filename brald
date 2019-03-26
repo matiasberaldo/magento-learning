@@ -1,0 +1,200 @@
+[33mcommit f230dfd13439621b70f94daecfa38150a9e69056[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c0e344303 3c26afd54
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 19:05:55 2019 +0100
+
+    Merge branch 'master' of https://github.com/matiasberaldo/magento-learning
+
+[33mcommit c0e344303546508e6ba84ce00b45d29a5c4538c4[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 19:05:17 2019 +0100
+
+    Added test module
+
+[33mcommit 3c26afd540425d4e49e2d1db86025436d7c4c8d2[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Matías <matias.beraldo.work@gmail.com>
+Date:   Tue Mar 26 00:18:49 2019 +0000
+
+    Removed file
+
+[33mcommit cdbe6d22f533b20d7c261918d9573013d6f4c381[m
+Author: Matías <matias.beraldo.work@gmail.com>
+Date:   Tue Mar 26 00:14:32 2019 +0000
+
+    Removed file
+
+[33mcommit 32ec98bf201cdab95206919fa9511589a32b4a7a[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 01:04:18 2019 +0100
+
+    Added third module base
+
+[33mcommit 5b085d6eaa607734fcece696b028fe6cfe839e76[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 00:55:37 2019 +0100
+
+    Added second module base
+
+[33mcommit a24409bb99949aef930955b7c321dc1dc68c99bc[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 00:52:31 2019 +0100
+
+    Added second module base
+
+[33mcommit 8299b2a46db8ce40d979e073b8074a7028c0d8e3[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 00:50:04 2019 +0100
+
+    Added second module base
+
+[33mcommit 18ae18d0a82382cc6f535f7116848f65b847af5a[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 00:47:19 2019 +0100
+
+    Added second module base
+
+[33mcommit 72f109c15329bd670b8c4f61803e788547e832a4[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 00:43:13 2019 +0100
+
+    Added second module base
+
+[33mcommit ef1c2cd9d5b6a14f47028aa9bfc0c161299974f4[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 00:38:03 2019 +0100
+
+    Added second module base
+
+[33mcommit 46a847a83e544992069622ed65d11ba5006165e5[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Tue Mar 26 00:34:42 2019 +0100
+
+    Added second module base
+
+[33mcommit f0a960abe13459771448e3870f848f71ff9ef563[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 23:59:42 2019 +0100
+
+    Overriding Magento's PaymentTokenManagementInterface with our CustomImplementation
+
+[33mcommit 66fc9ffb056b8fdf22bf78dba5f1f597c72a0b30[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 23:37:15 2019 +0100
+
+    Test commit to test crontab
+
+[33mcommit 86ae314bab8334c792e586a457ba35d3ce47d397[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 23:04:14 2019 +0100
+
+    Testing Magento\Vault\Api\PaymentTokenManagementInterface
+
+[33mcommit e1db24146db7897286e6af2c49e1c4a0f4d182e6[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 22:54:04 2019 +0100
+
+    Testing big pencil
+
+[33mcommit 20ddc7002760536109608c23b63413ee5bec3e98[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 22:48:12 2019 +0100
+
+    Testing red pencil aswell
+
+[33mcommit 076f537d5fde787b65b938eb5f9765228c58d1cb[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 22:35:56 2019 +0100
+
+    Added missing namespace
+
+[33mcommit c8dfc7d88ac22ee42793533e4ed3d45c56bb8af7[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 21:39:11 2019 +0100
+
+    Added missing namespace
+
+[33mcommit b7cbcef3efa89a19e9c6b6edfdfab98851a45e82[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 21:29:49 2019 +0100
+
+    Add pencilInterface
+
+[33mcommit 903bfa44f8bd8325d857b074c8bf846bbd1d8c57[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 21:08:57 2019 +0100
+
+    Removed unnecesary construcgt
+
+[33mcommit e062f1a6ec163caf6b921b6c294eb1b1cf750cc0[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 21:01:44 2019 +0100
+
+    Added Hello World in Tutorial Controller
+
+[33mcommit 222a631f6b559ffdf4a6a92867c1b180a1bb433c[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 20:43:27 2019 +0100
+
+    Fixed not working xml file
+
+[33mcommit 6ac09cf210ad5598458c512f787e85db1ae72617[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 20:40:23 2019 +0100
+
+    Fixed not working xml file
+
+[33mcommit 029cd3a2167ced808eba0f2b0fcd01d77115f493[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 20:36:09 2019 +0100
+
+    Fixed not working php file
+
+[33mcommit 557a7c2802e3f898e0da9d61e18de48c81b5b0d3[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 20:33:33 2019 +0100
+
+    Added new first module
+
+[33mcommit 3901bdbf2a00d933e54dfa834520a1c675ccead8[m
+Merge: cd5e70e9c 4b0a130cc
+Author: Matías <matias.beraldo.work@gmail.com>
+Date:   Mon Mar 25 19:00:13 2019 +0000
+
+    Merge branch 'master' of https://github.com/matiasberaldo/magento-learning
+
+[33mcommit cd5e70e9c63de4d14dac34b9f81807075110d5a6[m
+Author: Matías <matias.beraldo.work@gmail.com>
+Date:   Mon Mar 25 18:58:39 2019 +0000
+
+    Added missing files
+
+[33mcommit 4b0a130cc90760e5a1f4c51ce1a792ebd7b2869d[m
+Author: Matias Beraldo <matias.beraldo@gmail.com>
+Date:   Mon Mar 25 19:44:20 2019 +0100
+
+    Test commit from my machine
+
+[33mcommit b01ad955747e0eb6a97a5ce00c2030eff874e21c[m
+Merge: 11a47fe0b 979cbfbfc
+Author: Matías <matias.beraldo.work@gmail.com>
+Date:   Mon Mar 25 18:21:11 2019 +0000
+
+    Merge branch 'master' of https://github.com/matiasberaldo/magento-learning
+
+[33mcommit 11a47fe0b8e0199055e9f0b1d8660badb2ce37cd[m
+Author: Matías <matias.beraldo.work@gmail.com>
+Date:   Mon Mar 25 18:19:30 2019 +0000
+
+    Added Magento 2 files
+
+[33mcommit 979cbfbfcc6944599e39d233c5c1e55c9966bb19[m
+Author: matiasberaldo <47929792+matiasberaldo@users.noreply.github.com>
+Date:   Sun Mar 24 19:44:10 2019 +0100
+
+    Update README.md
+
+[33mcommit 5c16c292129fcfe85f6d71f5030d98be64a23915[m
+Author: Matías <matias.beraldo.work@gmail.com>
+Date:   Sun Mar 24 18:42:25 2019 +0000
+
+    Added README file
