@@ -3,4 +3,4 @@
   <module name="SimplifiedMagento_FirstModule" setup_version="0.1.0">
   </module>
 </config>
-<!-- Config comment ->
+<!-- Config comment : Be careful to close it correctly, thus the setup:upgrade won't work -->
