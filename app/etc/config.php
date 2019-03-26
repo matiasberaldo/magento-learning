@@ -216,6 +216,7 @@ return [
         'SimplifiedMagento_FirstModule' => 1,
         'SimplifiedMagento_ThirdModule' => 1,
         'Temando_Shipping' => 1,
+        'Test' => 1,
         'Vertex_Tax' => 1
     ]
 ];
